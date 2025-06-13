@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hance08&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Hance08's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hance08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Hance08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
