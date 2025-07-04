@@ -60,6 +60,7 @@ I enjoy building things! Here's a project I'm particularly proud of:
 
 ## 🌱 I'm Currently Learning / Exploring
 
+- Cybersecurity
 - React
 - Vibe Coding
 - K8s
