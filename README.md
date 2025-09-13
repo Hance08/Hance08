@@ -75,7 +75,6 @@ You can connect with me through the following channels:
 - 🌐 **Personal Website:** [hance.cfv.biz](https://hance.cfv.biz)
 - 💼 **LinkedIn:** [Hance08](https://www.linkedin.com/notifications/?filter=all) <!-- Remember to update this with your public profile URL! -->
 - 📧 Email: hancechin08@gmail.com
--->
 
 <!-- Optional: Visitor Badge (Uncomment to use)
 <p align="center">
