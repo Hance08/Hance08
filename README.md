@@ -63,7 +63,7 @@ I enjoy building things! Here's a project I'm particularly proud of:
 - Cybersecurity
 - React
 - Vibe Coding
-- K8s
+- Docker
 - Linux
 
 ---
