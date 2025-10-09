@@ -1,4 +1,5 @@
-# Hi there, I'm Hance08! 👋
+### Hi there, I'm Hance 👋
+---
 
 <a href="https://hance.cfv.biz" target="_blank"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=world&logoColor=white" alt="Personal Website"></a>
 <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -6,78 +7,52 @@
 
 ---
 
-### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hance08&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Hance08's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hance08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Hance08&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Hance08's GitHub Stats" /> -->
+  <picture decoding="async" loading="lazy">
+    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Hance08&theme=summer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Hance08&screen_effect=true&theme=blue_chill">
+    <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Hance08&theme=summer">
+  </picture>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hance08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a student at the **National Taiwan University of Science and Technology (NTUST)**, pursuing a degree in the Department of Information Management. I'm passionate about programming and developing innovative systems.
-
-My native language is Chinese, and here's my bio in my own words:
-> 來自國立臺灣科技大學 資訊管理系 熱愛寫程式 開發系統
+I'm a student at the $${\color{red}National \space Taiwan \space University \space of \space Science \space and \space Technology \space (NTUST)}$$, pursuing a degree in the $${\color{blue}Department \space of \space Information \space Management}$$. I'm passionate about $${\color{lightgreen}Programming}$$ and $${\color{lightgreen}Cybersecurity}$$.
 
 ---
 
-## 🚀 My Skills
+### 🚀 My Tech Stack
 
-Here are some of the technologies I work with:
-
-- **Mobile Development:**
-  - <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" height="20"/> Flutter
-- **Web Development:**
-  - <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="20"/> JavaScript
-- **Version Control:**
-  - <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" height="20"/> Git / <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="20"/> GitHub
-
-<!-- 💡 You can add more skills and use badges from sites like https://shields.io/ or https://devicon.dev/ -->
-<!-- Examples:
-  - **Languages:** Python, Java, C++, Dart
-  - **Frameworks/Libraries:** React, Node.js, Django
-  - **Databases:** Firebase, SQL, MongoDB
-  - **Cloud/DevOps:** Docker, AWS
--->
+- **Mobile Development** <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" height="20"/>
+- **Web Development** <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="20"/>
+- **Version Control** <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" height="20"/> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="20"/>
+- **Containerization** <img src="https://img.shields.io/badge/Docker-%231d63ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="20"/> <img src="https://img.shields.io/badge/DockerCompose-%234285F4.svg?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Docker" height="20"/>
+- **Operating System** <img src="https://img.shields.io/badge/Windows-%2302569B.svg?style=flat-square&logo=wikipedia&logoColor=white" alt="Windows" height="20"/> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="20"/>
 
 ---
 
-## 🌟 My Projects
-
-I enjoy building things! Here's a project I'm particularly proud of:
+### 🌟 My Projects
 
 - **AssetX**: [Hance08/AssetX](https://github.com/Hance08/AssetX)
-  - *Build a financial system to help me manage my assets and present the numbers in a visualized format.*
-
-<!-- 💡 Feel free to add more projects!
-- **Project Name 2**: [Link to Project] - Short description.
-- **Project Name 3**: [Link to Project] - Short description.
--->
 
 ---
 
-## 🌱 I'm Currently Learning / Exploring
+### 🌱 I'm Currently Learning / Exploring
 
 - Cybersecurity
 - React
-- Vibe Coding
+- Coding with AI
 - Docker
 - Linux
 
 ---
 
-## 📫 How to Reach Me
-
-You can connect with me through the following channels:
+### 📫 How to Reach Me
 
 - 🌐 **Personal Website:** [hance.cfv.biz](https://hance.cfv.biz)
-- 💼 **LinkedIn:** [Hance08](https://www.linkedin.com/notifications/?filter=all) <!-- Remember to update this with your public profile URL! -->
+- 💼 **LinkedIn:** [Hance08](https://www.linkedin.com/notifications/?filter=all)
 - 📧 Email: hancechin08@gmail.com
-
-<!-- Optional: Visitor Badge (Uncomment to use)
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hance08/count.svg" alt="Visitor Count" />
-</p>
--->
