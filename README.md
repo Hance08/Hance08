@@ -34,12 +34,6 @@ I'm a student at the $${\color{red}National \space Taiwan \space University \spa
 
 ---
 
-### 🌟 My Projects
-
-- **AssetX**: [Hance08/AssetX](https://github.com/Hance08/AssetX)
-
----
-
 ### 🌱 I'm Currently Learning / Exploring
 
 - Cybersecurity
