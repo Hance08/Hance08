@@ -1,7 +1,6 @@
 ### Hi there, I'm Hance 👋
 ---
 
-<a href="https://hance.cfv.biz" target="_blank"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=world&logoColor=white" alt="Personal Website"></a>
 <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- Friendly reminder: The LinkedIn URL you provided (https://www.linkedin.com/notifications/?filter=all) seems to be a link to your notifications. You might want to replace it with your public LinkedIn profile URL. -->
 
