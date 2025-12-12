@@ -46,6 +46,5 @@ I'm a student at the $${\color{red}National \space Taiwan \space University \spa
 
 ### 📫 How to Reach Me
 
-- 🌐 **Personal Website:** [hance.cfv.biz](https://hance.cfv.biz)
 - 💼 **LinkedIn:** [Hance08](https://www.linkedin.com/notifications/?filter=all)
 - 📧 Email: hancechin08@gmail.com
